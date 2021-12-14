@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name nightlight-rescue)(type Legacy)(uri ${KIPRJMOD}/nightlight-rescue.lib)(options "")(descr ""))
+  (lib (name esprelais-rescue)(type Legacy)(uri ${KIPRJMOD}/esprelais-rescue.lib)(options "")(descr ""))
+  (lib (name espmosfet-rescue)(type Legacy)(uri ${KIPRJMOD}/espmosfet-rescue.lib)(options "")(descr ""))
+)
