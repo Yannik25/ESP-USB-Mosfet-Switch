@@ -1,6 +1,7 @@
 # ESP USB/Mosfet Switch
  
- A small PCB to switch USB or general 3.3V / 5V devices via Headers.
+ A small PCB, based on an ESP12E to switch USB or general 3.3V / 5V devices via Headers.
+ Created with KiCad
  
 ## Current status: Ordered 
  
