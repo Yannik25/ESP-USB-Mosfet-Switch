@@ -7,11 +7,20 @@
  
 ## Features
 
-1  Read Current via INA226
+- 1. Multiple input selection
+   - 12V/5V/3.3V via Headers
+   - 5V via micro USB
+   - 5V via USB-C
 
-2  Two Outputs
-	- One either USB or Header
-	- Both selectable for 3.3V / 5V output
+- 2. Multiple output selection
+   - 12V/5V/3.3V via Headers (selectable via solderjumper)
+   - 5V via USB-A 
+   - 5V via USB-C
+   
+- 3. Read Current via INA226
+
+- 4. Onboard WS2812B LED
+	- control additional digital LEDs
 	
 
 ## The Hardware:
